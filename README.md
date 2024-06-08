@@ -1,4 +1,6 @@
-# Hi there 👋, I'm Nguyen Xuan Truong!
+<div align="center">
+  <h1>Hi there 👋, I'm Nguyen Xuan Truong!</h1>
+</div>
 
 ## 🚀 About Me
 🎓 I'm a Computer Science student at Phan Thiet University.  
@@ -19,8 +21,8 @@
 
 ## 📫 How to reach me
 - Email: nguyenxuantruong4869@gmail.com
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio.com](https://your-portfolio.com)
+- Facebook: https://www.facebook.com/profile.php?id=100053450930365
+- Zalo: https://zalo.me/0824525127
 
 ## 💡 Quote
 _"Học, học nữa, học mãi." - V.I. Lenin_
