@@ -27,10 +27,6 @@
 ## 💡 Quote
 _"Học, học nữa, học mãi." - V.I. Lenin_
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ## 📂 Projects
 
 ### Project 1: [Awesome Project](https://github.com/yourusername/awesome-project)
@@ -65,9 +61,9 @@ _"Học, học nữa, học mãi." - V.I. Lenin_
 
 
 ## 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourusername)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nguyenxuantruong4869@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://facebook.com/yourfacebookprofile)
+[![Zalo](https://img.shields.io/badge/Zalo-0068FF?style=flat&logo=zalo&logoColor=white)](https://zalo.me/yourzaloprofile)
 
 <!-- Optionally include visitor count badge -->
 ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yourusername.yourusername)
