@@ -5,7 +5,7 @@
 ## 🚀 About Me
 🎓 I'm a Computer Science student at Phan Thiet University.  
 💻 I love programming and exploring new technologies.  
-🌱 Currently, I'm learning Python, JavaScript, C++, and Machine Learning.
+🌱 Currently, I'm learning Python, JavaScript, C#, and Machine Learning.
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
