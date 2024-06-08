@@ -1,7 +1,7 @@
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Nguyen Xuan Truong!
 
 ## 🚀 About Me
-🎓 I'm a Computer Science student at [Your University].  
+🎓 I'm a Computer Science student at Phan Thiet University.  
 💻 I love programming and exploring new technologies.  
 🌱 Currently, I'm learning Python, JavaScript, C++, and Machine Learning.
 
@@ -18,7 +18,7 @@
 ![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to reach me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: nguyenxuantruong4869@gmail.com
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
 - Portfolio: [your-portfolio.com](https://your-portfolio.com)
 
@@ -30,14 +30,37 @@ _"Học, học nữa, học mãi." - V.I. Lenin_
 <!-- BLOG-POST-LIST:END -->
 
 ## 📂 Projects
-### Project 1: [Project Name](https://github.com/yourusername/project1)
-**Description:** A brief description of what this project is about.
 
-### Project 2: [Project Name](https://github.com/yourusername/project2)
-**Description:** A brief description of what this project is about.
+### Project 1: [Awesome Project](https://github.com/yourusername/awesome-project)
+**Description:** This project is a web application built with Django and React that allows users to track their tasks and manage their time effectively.
+- **Technologies:** Django, React, PostgreSQL, Docker
+- **Features:**
+  - User authentication and authorization
+  - CRUD operations for tasks
+  - Responsive design
+- **Live Demo:** [Demo Link](https://your-live-demo-link.com)
+- **Documentation:** [Documentation Link](https://github.com/yourusername/awesome-project/wiki)
 
-### Project 3: [Project Name](https://github.com/yourusername/project3)
-**Description:** A brief description of what this project is about.
+### Project 2: [Machine Learning Model](https://github.com/yourusername/machine-learning-model)
+**Description:** This project involves creating a machine learning model to predict house prices based on various features.
+- **Technologies:** Python, scikit-learn, Pandas, NumPy
+- **Features:**
+  - Data preprocessing and cleaning
+  - Model training and evaluation
+  - Hyperparameter tuning
+- **Live Demo:** [Demo Link](https://your-live-demo-link.com)
+- **Documentation:** [Documentation Link](https://github.com/yourusername/machine-learning-model/wiki)
+
+### Project 3: [Mobile App](https://github.com/yourusername/mobile-app)
+**Description:** This project is a mobile application built with Flutter that helps users to stay fit by tracking their workouts and diet.
+- **Technologies:** Flutter, Dart, Firebase
+- **Features:**
+  - User registration and login
+  - Workout tracking and history
+  - Diet planning and calorie counter
+- **Live Demo:** [Demo Link](https://your-live-demo-link.com)
+- **Documentation:** [Documentation Link](https://github.com/yourusername/mobile-app/wiki)
+
 
 ## 🔗 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
